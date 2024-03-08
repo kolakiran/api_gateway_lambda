@@ -1,0 +1,14 @@
+{
+  "name": "lambda-api-gateway",
+  "version": "1.0.0",
+  "description": "Sample AWS Lambda and API Gateway setup with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1043.0"
+  }
+}
