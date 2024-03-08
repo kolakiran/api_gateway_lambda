@@ -22,4 +22,3 @@ This project demonstrates how to create a simple "Hello World" AWS Lambda functi
 
 
 ## Testing
-
